@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-12T05:19:52.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="vdhZBvLYtnbm_rCJVwLk" version="21.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-12T05:35:27.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ODR8T6NaHKxDPykZTsum" version="21.7.4" type="github">
   <diagram name="第 1 页" id="6jqmOtGN--iIHoedSCer">
-    <mxGraphModel dx="543" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -21,6 +21,18 @@
             <mxPoint x="200" y="299.82" as="sourcePoint" />
             <mxPoint x="240" y="299.82" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="afgRe8NtAJf0MZFM70eA-5" value="y" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afgRe8NtAJf0MZFM70eA-6" value="y_hat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="afgRe8NtAJf0MZFM70eA-10" value="EM" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="afgRe8NtAJf0MZFM70eA-12" value="Q" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="295" width="30" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
